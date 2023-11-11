@@ -4,8 +4,6 @@
 
 <p>Tecnologias utilizadas: Cypress + JavaScript</p>
  
-## Como usar? ##
- 
   <img src="cypress.png" alt="Cypress" />
 
   &#xa0;
