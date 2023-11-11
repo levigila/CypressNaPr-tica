@@ -1,4 +1,4 @@
-# Teste_Cypress
+# Cypress Na Prática
 
 <p>Aplicação de automação de testes usando Cypress e JS.</p>
 
@@ -34,35 +34,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Cypress](https://www.cypress.io/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :white_check_mark: Pré requisitos ##
-
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Visual Studio Code](https://code.visualstudio.com/) instalados no PC!
-
-## :checkered_flag: Iniciando ##
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/gabimesquita/Teste_Cypress
-
-# Entre na pasta
-$ cd teste_cypress
-
-# Instale as dependências com o Cypress
-$ npm install cypress --dev
-
-# Para iniciar o projeto com a interface do Cypress
-$ npx cypress open
-
-# O app em Electron do Cypress vai inicializar e o teste rodará sempre numa aba separada do Chrome
-```
-
-## :memo: Licença ##
-
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](license.md) para mais detalhes.
-
-
-
-&#xa0;
 
 <a href="#top">Voltar para o topo</a>
 
